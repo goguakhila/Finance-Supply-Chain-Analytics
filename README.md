@@ -1,4 +1,4 @@
-# Fainancial and Suppy Chain Analysis using SQL
+# Fainancial and Suppy Chain Analytics using SQL
 
 ##  Project Overview
 
