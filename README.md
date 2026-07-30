@@ -1,4 +1,4 @@
-# Finance and Suppy Chain Analytics using SQL
+# Finance & Suppy Chain Analytics using SQL
 
 ##  Project Overview
 
